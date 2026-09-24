@@ -1,18 +1,16 @@
-# zion-ai-voice-translator
-AI Voice Translator — real-time multilingual speech-to-speech translation for meetings and field service. Part of the Zion AI apps network.
+# AI Voice Translator
 
-- 📐 Live app: https://ziontechgroup.com/zion-ai-voice-translator/
-- 💼 Plans & pricing: https://ziontechgroup.com/en/plans/
-- 📞 Discovery call: https://ziontechgroup.com/discovery/
+Real-time multilingual speech-to-speech translation.
 
-## Zion App Network (related apps)
-- [zion-ai-voice-assistant](https://github.com/Zion-support/zion-ai-voice-assistant) — https://voice-assistant.ziontechgroup.com
-- [zion-ai-meeting-assistant](https://github.com/Zion-support/zion-ai-meeting-assistant) — https://meeting-assistant.ziontechgroup.com
-- [zion-ai-field-dispatch](https://github.com/Zion-support/zion-ai-field-dispatch) — https://ziontechgroup.com/zion-ai-field-dispatch/
-- [zion-ai-help-desk](https://github.com/Zion-support/zion-ai-help-desk) — https://help-desk.ziontechgroup.com
-- [zion-ai-chatbot-builder](https://github.com/Zion-support/zion-ai-chatbot-builder) — https://chatbot-builder.ziontechgroup.com
+**Live app:** https://ziontechgroup.com/zion-ai-voice-translator/
 
----
-🗂️ [Master directory — Zion App Network](https://github.com/Zion-support/zion-app-network) · Live hub: https://ziontechgroup.com/zion-app-network/ · Apps hub: https://ziontechgroup.com/zion-apps-hub/
+## Features
+- 40+ languages speech-to-speech
+- Domain glossaries for technical support
+- Field-engineer offline mode
 
-© 2026 Zion Tech Group · https://ziontechgroup.com
+## Zion App Network
+Part of the [Zion App Network](https://ziontechgroup.com/apps/).
+Related: [Content Translator](https://github.com/Zion-support/ai-content-translator) · [Call Analytics](https://github.com/Zion-support/zion-ai-call-analytics) · [Support Copilot](https://github.com/Zion-support/zion-ai-support-copilot) · [Field Dispatch](https://github.com/Zion-support/zion-ai-field-dispatch)
+
+© 2026 Zion Tech Group
